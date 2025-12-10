@@ -1,1 +1,0 @@
-SELECT * FROM reservation.reservation_management;
